@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Moisture Boost Serum",
+    "rating": 4.9,
+    "category": "Skincare",
+    "price": 32.0,
+    "discount": 20,
+    "image": "./Assests/Images/Best-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brow Defining Pencil",
+    "rating": 4.7,
+    "category": "Makeup",
+    "price": 12.5,
+    "discount": 10,
+    "image": "./Assests/Images/Best-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Soft Glow Blush",
+    "rating": 4.8,
+    "category": "Makeup",
+    "price": 18.75,
+    "discount": 25,
+    "image": "./Assests/Images/Best-4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nourishing Hair Mask",
+    "rating": 4.6,
+    "category": "Haircare",
+    "price": 21.0,
+    "discount": 18,
+    "image": "./Assests/Images/Best-5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Longwear Foundation",
+    "rating": 4.9,
+    "category": "Makeup",
+    "price": 29.99,
+    "discount": 30,
+    "image": "./Assests/Images/Best-6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rose Petal Cleanser",
+    "rating": 4.7,
+    "category": "Skincare",
+    "price": 16.5,
+    "discount": 12,
+    "image": "./Assests/Images/Best-7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Luminous Highlighter",
+    "rating": 4.8,
+    "category": "Makeup",
+    "price": 22.0,
+    "discount": 22,
+    "image": "./Assests/Images/Best-8.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lash Volume Mascara",
+    "rating": 4.9,
+    "category": "Makeup",
+    "price": 19.5,
+    "discount": 15,
+    "image": "./Assests/Images/Best-9.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Daily Sunscreen SPF 50",
+    "rating": 4.8,
+    "category": "Skincare",
+    "price": 27.0,
+    "discount": 20,
+    "image": "./Assests/Images/Best-10.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Precision Liquid Eyeliner",
+    "rating": 4.6,
+    "category": "Makeup",
+    "price": 14.99,
+    "discount": 10,
+    "image": "./Assests/Images/Best-11.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Repairing Hair Oil",
+    "rating": 4.7,
+    "category": "Haircare",
+    "price": 25.5,
+    "discount": 25,
+    "image": "./Assests/Images/Best-12.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lightweight Face Primer",
+    "rating": 4.8,
+    "category": "Makeup",
+    "price": 20.0,
+    "discount": 18,
+    "image": "./Assests/Images/Best-13.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gentle Makeup Remover",
+    "rating": 4.6,
+    "category": "Skincare",
+    "price": 17.25,
+    "discount": 12,
+    "image": "./Assests/Images/Best-14.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Vanilla Body Mist",
+    "rating": 4.9,
+    "category": "Fragrance",
+    "price": 34.0,
+    "discount": 30,
+    "image": "./Assests/Images/Best-15.jpg"
+  }
+]
